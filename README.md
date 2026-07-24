@@ -22,7 +22,7 @@
 
 ## Project Overview
 
-FlyControl-RC is a custom RC transmitter and receiver system built to control a ready-made 3D-printed fixed-wing aircraft. The project covers electronics design, firmware development, wireless communication, custom transmitter enclosure design.
+FlyControl-RC is a custom RC transmitter and receiver system built to control a ready-made 3D-printed fixed-wing aircraft. The project covers electronics design, firmware development, wireless communication, and custom transmitter enclosure design.
 
 
 ---
