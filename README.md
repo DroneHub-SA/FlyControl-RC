@@ -26,8 +26,8 @@
 
 >  **Aircraft Model & Reference:**
 > * **Model:** Eclipson Model A 
-> * **Official Website:** <a href="https://www.youtube.com/watch?v=KFbk5fvy7Hk&t=50s" target="_blank"><kbd>ECLIPSON WEBSITE</kbd></a>
-> * **Video Reference:** <a href="https://cults3d.com/en/3d-model/various/rc-plane-eclipson-model-a-free-version-by-eclipson" target="_blank"><kbd>WATCH TUTORIAL</kbd></a>
+> * **Official Website:** <a href="https://cults3d.com/en/3d-model/various/rc-plane-eclipson-model-a-free-version-by-eclipson" target="_blank"><kbd>ECLIPSON WEBSITE</kbd></a>
+> * **Video Reference:** <a href="[https://cults3d.com/en/3d-model/various/rc-plane-eclipson-model-a-free-version-by-eclipson](https://www.youtube.com/watch?v=KFbk5fvy7Hk&t=50s)" target="_blank"><kbd>WATCH TUTORIAL</kbd></a>
 
 
 ---
