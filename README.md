@@ -24,10 +24,10 @@
 
 **FlyControl-RC** is a custom RC transmitter and receiver system built to control a 3D-printed fixed-wing aircraft. The project covers electronics design, firmware development, wireless communication, and custom transmitter enclosure design.
 
->  **Aircraft Model & Reference:**
+> **Aircraft Model & Reference:**
 > * **Model:** Eclipson Model A 
 > * **Official Website:** <a href="https://cults3d.com/en/3d-model/various/rc-plane-eclipson-model-a-free-version-by-eclipson" target="_blank"><kbd>ECLIPSON WEBSITE</kbd></a>
-> * **Video Reference:** <a href="[https://cults3d.com/en/3d-model/various/rc-plane-eclipson-model-a-free-version-by-eclipson](https://www.youtube.com/watch?v=KFbk5fvy7Hk&t=50s)" target="_blank"><kbd>WATCH TUTORIAL</kbd></a>
+> * **Video Reference:** <a href="https://www.youtube.com/watch?v=KFbk5fvy7Hk&t=50s" target="_blank"><kbd>WATCH TUTORIAL</kbd></a>
 
 
 ---
