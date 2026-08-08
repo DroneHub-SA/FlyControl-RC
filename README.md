@@ -45,7 +45,12 @@
 
 ## Electronics & Circuit Design
 
-> 
+> FlyControl-RC uses a custom six-channel transmitter and receiver system based on Arduino Nano microcontrollers and nRF24L01+ wireless modules.
+
+- 📡 [Transmitter Electronics](Electronics/Transmitter/)
+- ✈️ [Receiver Electronics](Electronics/Receiver/)
+
+Detailed schematics, wiring, component information, and hardware documentation are available in their respective folders.
 
 ---
 
