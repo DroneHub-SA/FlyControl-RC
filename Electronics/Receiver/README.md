@@ -7,4 +7,4 @@ The FlyControl-RC receiver is a six-channel RC receiver designed for the fixed-w
 
 The complete receiver schematic is shown below.
 
-![Receiver Schematic](Receiver-Diagram.png)
+![Receiver Schematic](Receiver-Diagram.jpg)
