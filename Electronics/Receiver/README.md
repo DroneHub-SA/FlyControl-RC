@@ -34,8 +34,7 @@ The complete receiver wiring is shown below.
 
 ### Receiver Photo
 
-![Receiver](receiver_front.jpg)
+![Receiver](receiver_front.jpeg)
 
-### Installed in Aircraft
 
-![Receiver](receiver_back.jpg)
+![Receiver](receiver_back.jpeg)
