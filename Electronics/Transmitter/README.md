@@ -25,3 +25,12 @@ The complete transmitter wiring is shown below.
 | Toggle Switches | 2 | Provide additional control inputs for auxiliary channels. |
 | Power Switch | 1 | Turns the transmitter power supply on and off. |
 | Battery | 1 | Provides power to the transmitter electronics. |
+
+
+## Circuit Operation
+
+1. The joysticks and switches provide the six control channel inputs.
+2. The Arduino Nano reads the input values from each control channel.
+3. The input values are converted into channel data for wireless transmission.
+4. The nRF24L01+ PA/LNA module transmits the control packet to the aircraft receiver.
+5. The transmitter continuously updates and sends the channel data while the system is powered on.
