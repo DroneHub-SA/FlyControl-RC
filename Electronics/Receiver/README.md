@@ -38,3 +38,7 @@ The complete receiver wiring is shown below.
 
 
 ![Receiver](receiver_back.jpeg)
+
+<p align="center">
+  <img src="receiver_back.jpeg" alt="Transmitter" width="400">
+</p>
