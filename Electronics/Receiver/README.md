@@ -35,10 +35,10 @@ The complete receiver wiring is shown below.
 ### Receiver Photo
 
 <p align="center">
-  <img src="receiver_front.jpeg" alt="Transmitter" width="500">
+  <img src="receiver_front.jpeg" alt="Transmitter" width="450">
 </p>
 
 
 <p align="center">
-  <img src="receiver_back.jpeg" alt="Transmitter" width="400">
+  <img src="receiver_back.jpeg" alt="Transmitter" width="450">
 </p>
