@@ -34,10 +34,10 @@ The complete receiver wiring is shown below.
 
 ### Receiver Photo
 
-![Receiver](receiver_front.jpeg)
+<p align="center">
+  <img src="receiver_front.jpeg" alt="Transmitter" width="500">
+</p>
 
-
-![Receiver](receiver_back.jpeg)
 
 <p align="center">
   <img src="receiver_back.jpeg" alt="Transmitter" width="400">
