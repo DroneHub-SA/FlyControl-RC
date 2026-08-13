@@ -34,3 +34,14 @@ The complete transmitter wiring is shown below.
 3. The input values are converted into channel data for wireless transmission.
 4. The nRF24L01+ PA/LNA module transmits the control packet to the aircraft receiver.
 5. The transmitter continuously updates and sends the channel data while the system is powered on.
+
+
+## Assembly
+
+### Transmitter PCB
+
+![Transmitter](transmitter_photo.jpg)
+
+### Completed Transmitter
+
+![Completed Transmitter](transmitter_completed.jpg)   
