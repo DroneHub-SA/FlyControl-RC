@@ -32,10 +32,10 @@ The complete receiver wiring is shown below.
 
 ## Assembly
 
-### Receiver PCB
+### Receiver Photo
 
-![Receiver](receiver_photo.jpg)
+![Receiver](receiver_front.jpg)
 
 ### Installed in Aircraft
 
-![Installed Receiver](receiver_installed.jpg)
+![Receiver](receiver_back.jpg)
