@@ -41,11 +41,10 @@ The complete transmitter wiring is shown below.
 ### Transmitter photo 
 
 <p align="center">
-  <img src="transmitter_front.jpeg
-" alt="Transmitter" width="450">
-</p> 
+  <img src="transmitter_front.jpeg" alt="Transmitter" width="450">
+</p>
 
 <p align="center">
-  <img src="transmitter_back.jpeg
-" alt="Transmitter" width="450">
-</p> 
+  <img src="transmitter_back.jpeg" alt="Transmitter" width="450">
+</p>
+
