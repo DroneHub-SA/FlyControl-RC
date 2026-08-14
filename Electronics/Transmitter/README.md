@@ -38,7 +38,7 @@ The complete transmitter wiring is shown below.
 
 ## Assembly
 
-### Transmitter PCB
+### Transmitter PCB transmitter_front.jpeg
 
 ![Transmitter](transmitter_photo.jpg)
 
